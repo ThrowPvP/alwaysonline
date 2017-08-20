@@ -1,0 +1,5 @@
+name: ThrowOnline
+version: 1.2
+main: me.sleetla.ao.bungee.BungeeLoader
+author: Sleetla
+website: sleetla.pro
